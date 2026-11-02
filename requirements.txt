@@ -1,0 +1,5 @@
+google-adk[a2a]
+litellm<1.106
+mcp<2
+uvicorn
+python-dotenv
